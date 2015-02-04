@@ -2,7 +2,7 @@
 
 A batch script to make the highest quality webms based on a set filesize limit.
 
-Maybe someday I'll make a neater version with a GUI. (I did now, check my other repo.)
+Maybe someday I'll make a neater version with a GUI. (I did now, check my [other repo](https://github.com/Vladislav-G/WebmMaker).)
 
 ### How to use it
 
