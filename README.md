@@ -1,7 +1,8 @@
 ## Vlad's sloppy webm maker
 
 A batch script to make the highest quality webms based on a set filesize limit.
-Maybe someday I'll make a neater version with a GUI.
+
+Maybe someday I'll make a neater version with a GUI. (I did now, check my other repo.)
 
 ### How to use it
 
